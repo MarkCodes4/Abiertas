@@ -18,6 +18,7 @@ public class Dices {
     public static void main(String[] args) {
         boolean game = true;
         while (game = true){
+            System.out.println("Programa gay del mark");
             System.out.println("Hola, Bienvenido a Minijuegos");
             System.out.println("1 Evaluar resultado de 3 lanzamientos de dados");
             System.out.println("2 Leer 20 numeros");
